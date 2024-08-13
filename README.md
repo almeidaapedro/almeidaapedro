@@ -1,4 +1,4 @@
-<code>Console.log("Welcome to my github!")</code>
+HEY THERE, I'M PEDRO ALMEIDA.
 <hr>
 
 <p>🎓 Currently studying Computer Science Technician at <a href="https://www.sp.senac.br/senac-sao-bernardo-do-campo" target="blank_">SENAC</a></p>
@@ -10,10 +10,10 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nest,mysql)](https://skillicons.dev)
 
 In this github you will find projects with the following technologies:
-<p>-JavaScript</p> 
-<p>-Typescript</p> 
-<p>-Nest.js (JWT, Auth, TypeOrm, Passport)</p>
-<p>-React (React Router, Axios, React Hook)</p>
+<p>- JavaScript</p> 
+<p>- Typescript</p> 
+<p>- Nest.js (JWT, Auth, TypeOrm, Passport)</p>
+<p>- React (React Router, Axios, React Hook)</p>
 
 
 <hr>
@@ -26,4 +26,4 @@ Contact:
 
 <hr>
 
-Enjoy :)
+<code>Console.log("Welcome to my github!")</code>
