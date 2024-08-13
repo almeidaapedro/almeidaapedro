@@ -1,16 +1,29 @@
-## Hi there 👋
+<code>Console.log("Welcome to my github!")</code>
+<hr>
 
-<!--
-**almeidaapedro/almeidaapedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🎓 Currently studying Computer Science Technician at <a href="https://www.sp.senac.br/senac-sao-bernardo-do-campo" target="blank_">SENAC</a></p>
+<p>✔️ 1 year of experience</p>
+<p>😐 Basic English </p>
+<p>📚 Studying frameworks like React for a better user experience</p>
+<hr>
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nest,mysql)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In this github you will find projects with the following technologies:
+<p>-JavaScript</p> 
+<p>-Typescript</p> 
+<p>-Nest.js (JWT, Auth, TypeOrm, Passport)</p>
+<p>-React (React Router, Axios, React Hook)</p>
+
+
+<hr>
+
+Contact:
+<p><a href="https://www.instagram.com/pedroalm._/" target="_blank">Instagram, </a><a href="https://www.linkedin.com/in/pedroaugustosantosalmeida/" target="_blank">LinkedIn, </a>
+<a href="https://psalmeida-portfolio.vercel.app/">Portfólio</a>
+<a href= "mailto:almeida.pedroaugusto25@gmail.com">Email</a></p>
+
+
+<hr>
+
+Enjoy :)
