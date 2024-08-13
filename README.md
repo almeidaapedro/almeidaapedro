@@ -19,8 +19,8 @@ In this github you will find projects with the following technologies:
 <hr>
 
 Contact:
-<p><a href="https://www.instagram.com/pedroalm._/" target="_blank">Instagram, </a><a href="https://www.linkedin.com/in/pedroaugustosantosalmeida/" target="_blank">LinkedIn, </a>
-<a href="https://psalmeida-portfolio.vercel.app/">Portfólio</a>
+<p><a href="https://www.instagram.com/pedroalm._/" target="_blank">Instagram (460), </a><br><a href="https://www.linkedin.com/in/pedroaugustosantosalmeida/" target="_blank">LinkedIn (363), </a><br>
+<a href="https://psalmeida-portfolio.vercel.app/">Portfólio,</a><br>
 <a href= "mailto:almeida.pedroaugusto25@gmail.com">Email</a></p>
 
 
