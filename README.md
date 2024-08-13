@@ -1,4 +1,4 @@
-HEY THERE, I'M PEDRO ALMEIDA.
+## HEY THERE, I'M PEDRO ALMEIDA.
 <hr>
 
 <p>🎓 Currently studying Computer Science Technician at <a href="https://www.sp.senac.br/senac-sao-bernardo-do-campo" target="blank_">SENAC</a></p>
@@ -18,7 +18,7 @@ In this github you will find projects with the following technologies:
 
 <hr>
 
-Contact:
+## Contact:
 <p><a href="https://www.instagram.com/pedroalm._/" target="_blank">Instagram (460), </a><br><a href="https://www.linkedin.com/in/pedroaugustosantosalmeida/" target="_blank">LinkedIn (363), </a><br>
 <a href="https://psalmeida-portfolio.vercel.app/">Portfólio,</a><br>
 <a href= "mailto:almeida.pedroaugusto25@gmail.com">Email</a></p>
@@ -26,4 +26,4 @@ Contact:
 
 <hr>
 
-<code>Console.log("Welcome to my github!")</code>
+## <code>Console.log("Welcome to my github!")</code>
