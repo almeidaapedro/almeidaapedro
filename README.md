@@ -4,14 +4,13 @@
 <p>🎓 Currently studying Computer Science Technician at <a href="https://www.sp.senac.br/senac-sao-bernardo-do-campo" target="blank_">SENAC</a></p>
 <p>✔️ 1 year of experience</p>
 <p>😐 Basic English </p>
-<p>📚 Studying frameworks like React for a better user experience</p>
+<p>📚 Studying frameworks like NestJS to create API`S</p>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nest,mysql)](https://skillicons.dev)
 
 In this github you will find projects with the following technologies:
 <p>- JavaScript</p> 
-<p>- Typescript</p> 
 <p>- Nest.js (JWT, Auth, TypeOrm, Passport)</p>
 <p>- React (React Router, Axios, React Hook)</p>
 
@@ -26,4 +25,4 @@ In this github you will find projects with the following technologies:
 
 <hr>
 
-## <code>Console.log("Welcome to my github!")</code>
+## <code>System.out.println("Welcome to my github!")</code>
