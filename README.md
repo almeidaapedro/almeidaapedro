@@ -25,4 +25,4 @@ In this github you will find projects with the following technologies:
 
 <hr>
 
-## <code>System.out.println("Welcome to my github!")</code>
+## <code>Console.log("Welcome to my github!")</code>
