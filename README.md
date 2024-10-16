@@ -1,4 +1,4 @@
-## HEY THERE, I'M PEDRO ALMEIDA.
+## WHAT´S UP, I'M PEDRO ALMEIDA.
 <hr>
 
 <p>🎓 Currently studying Computer Science Technician at <a href="https://www.sp.senac.br/senac-sao-bernardo-do-campo" target="blank_">SENAC</a></p>
