@@ -1,16 +1,18 @@
 ## WHAT´S UP, I'M PEDRO ALMEIDA.
 <hr>
 
-<p>🎓 Currently studying Computer Science Technician at <a href="https://www.sp.senac.br/senac-sao-bernardo-do-campo" target="blank_">SENAC</a></p>
+<p>🎓 I graduated from the Technical Computer Science course at <a href="https://www.sp.senac.br/senac-sao-bernardo-do-campo" target="blank_">SENAC</a></p>
+<p>📚 I am graduating in Analysis and Development of Systems at <a href="https://graduacao.uninove.br/?course=tecnologia-em-analise-e-desenvolvimento-de-sistemas" target="blank_">UNINOVE</a></p>
 <p>✔️ 1 year of experience</p>
 <p>😐 Basic English </p>
-<p>📚 Studying frameworks like NestJS to create API`S</p>
+<p>📚 Studying frameworks like Spring Boot to create API`S</p>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nest,mysql)](https://skillicons.dev)
 
 In this github you will find projects with the following technologies:
 <p>- JavaScript</p> 
+<p>- Java (JDBC) + MySQL
 <p>- Nest.js (JWT, Auth, TypeOrm, Passport)</p>
 <p>- React (React Router, Axios, React Hook)</p>
 
@@ -25,4 +27,4 @@ In this github you will find projects with the following technologies:
 
 <hr>
 
-## <code>Console.log("Welcome to my github!")</code>
+## <code>System.out.println("Welcome to my github!")</code>
