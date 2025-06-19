@@ -8,7 +8,7 @@
 <p>📚 Studying frameworks like Spring Boot to create API`S</p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,nest,mysql,java,c#,.net)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,react,nest,mysql,java)](https://skillicons.dev)
 
 In this github you will find projects with the following technologies:
 <p>- JavaScript</p> 
